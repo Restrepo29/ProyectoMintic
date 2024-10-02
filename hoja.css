@@ -1,0 +1,54 @@
+.div
+    {
+        
+         width: 500px;
+         height: 500px;
+         margin: auto;
+         margin-top: 200px;
+     }
+
+     
+    table,th,td{
+        border: 1px solid black;
+        border-collapse: collapse;
+        width: 400px;
+      font-size: 20px;
+        
+     }
+.td{
+    text-align: center;
+}
+th{
+    background-color: aquamarine;
+}
+.amarillo{
+    background-color:khaki;
+}
+caption{
+    color:rgb(237, 150, 100);
+    font-size: 24px;
+}
+img{
+    width: 500px;
+    height: 500px;
+}
+.pagina1{
+    width: 500px;
+    height: 900px;
+    margin: auto;
+    margin-top: 80px;
+    background-color;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+.body{
+    background-color:thistle;
+}
+li{
+    font-size: 22px;
+}
+a{
+    font-size: 18px;
+}
